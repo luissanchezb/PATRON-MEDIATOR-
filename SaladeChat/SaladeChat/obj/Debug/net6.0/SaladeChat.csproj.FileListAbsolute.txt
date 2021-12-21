@@ -1,0 +1,30 @@
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.exe
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.deps.json
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.runtimeconfig.json
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.dll
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\ref\SaladeChat.dll
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.pdb
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.AssemblyInfo.cs
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.dll
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\ref\SaladeChat.dll
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.pdb
+C:\Users\Luis\source\repos\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.genruntimeconfig.cache
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.exe
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.deps.json
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.runtimeconfig.json
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.dll
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\ref\SaladeChat.dll
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\bin\Debug\net6.0\SaladeChat.pdb
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.csproj.AssemblyReference.cache
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.AssemblyInfoInputs.cache
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.AssemblyInfo.cs
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.csproj.CoreCompileInputs.cache
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.dll
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\ref\SaladeChat.dll
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.pdb
+D:\Universidad\Desktop\TODO\TRABAJOS U\CUARTO SEMESTRE\Programacion\Segundo Parcial\SaladeChat\SaladeChat\obj\Debug\net6.0\SaladeChat.genruntimeconfig.cache
